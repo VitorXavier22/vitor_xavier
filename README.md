@@ -1,2 +1,2 @@
 # Bem Vindo ao MEu Perfil!
-Meu nom é Vitor 
+Meu nome é Vitor 
